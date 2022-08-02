@@ -1,0 +1,50 @@
+{
+  "gold_per_min": {
+    "sampleSize": 20000,
+    "mean": 436.0653,
+    "sigma": 164.71209984670227,
+    "variability": 0.37772347363273867,
+    "max": 1087,
+    "min": 119
+  },
+  "kills_per_min": {
+    "sampleSize": 20000,
+    "mean": 0.17250714679113444,
+    "sigma": 0.13521983793557887,
+    "variability": 0.783850643007262,
+    "max": 1.1214953271028039,
+    "min": 0
+  },
+  "hero_damage_per_min": {
+    "sampleSize": 20000,
+    "mean": 530.7562424913699,
+    "sigma": 270.0447663596752,
+    "variability": 0.5087924450819175,
+    "max": 2836.679489775258,
+    "min": 0
+  },
+  "xp_per_min": {
+    "sampleSize": 20000,
+    "mean": 552.00755,
+    "sigma": 191.66772887734163,
+    "variability": 0.3472193974110347,
+    "max": 1096,
+    "min": 49
+  },
+  "tower_damage_per_min": {
+    "sampleSize": 20000,
+    "mean": 66.87242437702072,
+    "sigma": 113.7224600737952,
+    "variability": 1.7005882638954166,
+    "max": 1123.2087912087911,
+    "min": 0
+  },
+  "last_hits_per_min": {
+    "sampleSize": 20000,
+    "mean": 4.862292300097038,
+    "sigma": 3.396430829728184,
+    "variability": 0.6985246094029355,
+    "max": 18.05721096543504,
+    "min": 0
+  }
+}
